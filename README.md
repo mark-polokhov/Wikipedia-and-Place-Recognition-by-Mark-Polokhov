@@ -1,4 +1,4 @@
-# Wikipedia-and-Place-Recognition-by-Mark-Polokhov
+# Wikipedia and Place Recognition by Mark Polokhov
 
 Это приложение позволяет открыть любую вики страницу и отобразить на карте все места, упомянутые на ней.
 Делается это при помощи web-scraping на языке Python через Beautiful Soup, который собирает все ссылки на странице и среди них отбирает только те, текст которых напоминает название.
