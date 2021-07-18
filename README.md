@@ -13,5 +13,5 @@
   
   Получить его можно на сайте [mapbox.com](https://www.mapbox.com/)
   
-+ Открыть сайт (бла бла)
-+ готово
++ Запустить сервер, выполнив команду ```python main.py``` на Windows или ```python3 main.py``` для Linux и MacOS.
++ Открыть http://localhost:5000/form
